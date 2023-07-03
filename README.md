@@ -1,1 +1,3 @@
-# Aestha-Beauty-Concept
+Aestha Beauty Concept je veb sajt istoimenog preduzeća. Korisnici se putem sajta mogu informisati bolje o poslovanju samog salona kao i o uslugama koje salon nudi. Korisnici imaju uvid u tretmane, njihove cene kao i mogućnost onlajn zakazivanja termina u salonu. Na sajtu se nalazi i kviz, a korisnici ukoliko odgovore tačno na sva pitanja za predviđeno vreme, mogu osvojiti nagrade u vidu kupona za popust na tretmane u salonu. Korisnici se mogu obratiti salonu putem kontakt forme za dodatne informacije, ali pored toga tu je i Chatbot za lakše snalaženje na sajtu i eventualne nedoumice. 
+
+Dokumentacija sajta: https://docs.google.com/document/d/1NJZw54SioB2xuRGGqfcoGHJApC9w6u3V/edit
